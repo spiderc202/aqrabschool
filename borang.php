@@ -43,7 +43,7 @@
 				  </div>
 			  </div>
 			  <div align="center">
-				  <h1><span class="badge badge-secondary my-3"><?= $lot ?> lot = RM <?= number_format($jumlah,2) ?></span></h1>
+				  <h1><span class="badge badge-secondary my-3"><?= $lot ?> LOT = RM <?= number_format($jumlah,2) ?></span></h1>
 				  <input type="hidden" name="jumlah" value="<?= $jumlah ?>" />
 				  <input type="hidden" name="lot" value="<?= $lot ?>" />
 				  <input type="hidden" name="desc" value="<?= $_POST['desc'] ?>" />
