@@ -131,7 +131,7 @@
                           </button>
                         </div>
                       </div>
-                      <input type="hidden" name="desc" value="<?= $projek ?>" />
+                      <input type="hidden" name="desc" value="<?= $project ?>" />
                     </form>
                   </div>
                 </div>
