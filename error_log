@@ -1,0 +1,27 @@
+[06-Jun-2018 17:37:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tahfizal/wakaf.tahfizalfateh.com/redirect.php:25) in /home/tahfizal/wakaf.tahfizalfateh.com/redirect.php on line 38
+[06-Jun-2018 17:38:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/tahfizal/wakaf.tahfizalfateh.com/redirect.php:24) in /home/tahfizal/wakaf.tahfizalfateh.com/redirect.php on line 37
+[06-Jun-2018 18:00:11 UTC] PHP Warning:  curl_setopt() expects exactly 3 parameters, 2 given in /home/tahfizal/wakaf.tahfizalfateh.com/redirect.php on line 28
+[07-Jun-2018 22:31:11 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 213
+[07-Jun-2018 22:41:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 213
+[07-Jun-2018 22:41:30 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, null given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 215
+[07-Jun-2018 22:42:09 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 215
+[07-Jun-2018 23:04:11 UTC] PHP Warning:  Illegal string offset 'lot' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:04:11 UTC] PHP Warning:  Illegal string offset 'lot' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:04:47 UTC] PHP Warning:  Illegal string offset 'name' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:04:47 UTC] PHP Warning:  Illegal string offset 'lot' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:04:47 UTC] PHP Warning:  Illegal string offset 'name' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:04:47 UTC] PHP Warning:  Illegal string offset 'lot' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:05:08 UTC] PHP Warning:  Illegal string offset 'name' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:05:08 UTC] PHP Warning:  Illegal string offset 'lot' in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 274
+[07-Jun-2018 23:09:12 UTC] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, object given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 267
+[07-Jun-2018 23:09:26 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, object given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 267
+[07-Jun-2018 23:49:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[07-Jun-2018 23:50:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[07-Jun-2018 23:52:04 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[07-Jun-2018 23:52:23 UTC] PHP Warning:  mysqli_fetch_row() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[07-Jun-2018 23:52:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[07-Jun-2018 23:53:39 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 268
+[08-Jun-2018 00:01:31 UTC] PHP Parse error:  syntax error, unexpected '$sum' (T_VARIABLE) in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 231
+[08-Jun-2018 00:21:28 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 252
+[08-Jun-2018 00:22:09 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 253
+[08-Jun-2018 00:22:23 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/tahfizal/wakaf.tahfizalfateh.com/index.php on line 253
